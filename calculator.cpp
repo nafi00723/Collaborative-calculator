@@ -5,7 +5,8 @@ int main(){
     ios::sync_with_stdio(false);
     cin.tie(0);
 
-    int a, b;
+    int a, b; 
+	cout << "Enter two integer number:\n";
     cin >> a >> b;
 
     char ch;
